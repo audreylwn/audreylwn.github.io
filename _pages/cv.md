@@ -10,13 +10,15 @@ redirect_from:
 {% include base_path %}
 
 
-### Education
+
+
+Education
 ======
 * Bachelor (Hons.) in Psychology, National University of Singapore, 2013
 * PhD in Psychiatry, University of Cambridge, 2019-2022 (expected)
 
 
-### Awards & Prizes
+Awards & Prizes
 ======
 * 2021 - Fitzwilliam Society Trust Travel Grant, University of Cambridge, UK
 * 2020 - Fitzwilliam College Senior Scholarship Award 2020, University of Cambridge, UK
@@ -27,7 +29,7 @@ redirect_from:
 * 2018 - Best Junior Researcher Award, National Neuroscience Research Institute Singapore Research Day 
 
 
-### Talks	
+Talks	
 ======
 * 2022: Oral presentation - Alzheimer’s Research UK Conference (ARUK 2022; to be delivered, Mar’22)
 * 2021: Oral presentation - Vas-Cog Conference 2021
@@ -43,14 +45,14 @@ redirect_from:
 * 2018: Oral presentation - National Neuroscience Research Institute Singapore (NNRIS) Research Day 2018 (Best Junior Researcher Award)
 
 
-### Professional Memberships
+Professional Memberships
 ======
 * ISTAART: Alzheimer's Association International Society to Advance Alzheimers Research & Treatment
 * VasCog: The International Society of Vascular Behavioural and Cognitive Disorders
 * DEMON Network: ARUK Deep Dementia Phenotyping (DEMON) Network
 
 
-### Additional Activities
+Additional Activities
 ======
 **Pint of Science Festival**
 *Organizer*
@@ -65,13 +67,9 @@ Spearhead and coordinate activities planned for incoming postgraduate students
 Inter-department initiative to improve diversity and access to academia through a summer research program developed for under-represented students
 
 
-### Skills & Expertise 
+Skills & Expertise
 ======
 * Analysis: 	Proficient in R, Markdown, SPSS, AMOS, FreeSurfer, MATLAB, SPM, FSL, PALM
 * Languages: 	English (native speaker), Mandarin (second language)
-* Interests: 	Rock climbing, hiking, scuba diving, tennis, pottery
-
-
-
 
 
