@@ -54,17 +54,11 @@ Professional Memberships
 
 Additional Activities
 ======
-**Pint of Science Festival**
-*Organizer*
-Plan and coordinate a 3-day conference for researchers across disciplines to discuss their work
+* **Pint of Science Festival** (Organizer): Plan and coordinate a 3-day conference for researchers across disciplines to discuss their work
 
-**Fitzwilliam College Welcome Week Committee (University of Cambridge)**
-*Organizer*
-Spearhead and coordinate activities planned for incoming postgraduate students 
+* **Fitzwilliam College Welcome Week Committee (University of Cambridge)** (Organizer): Spearhead and coordinate activities planned for incoming postgraduate students 
 
-**Summer CAMP (Cambridge Access to Mental health and Psychology)**
-*Organizer, Supervisor*
-Inter-department initiative to improve diversity and access to academia through a summer research program developed for under-represented students
+* **Summer CAMP (Cambridge Access to Mental health and Psychology)** (Organizer, Supervisor): Student-led, inter-department initiative to improve diversity and access to academia through a summer research program developed for under-represented students
 
 
 Skills & Expertise
