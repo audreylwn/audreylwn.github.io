@@ -16,7 +16,7 @@ My PhD is funded by the Fitzwilliam Lee Kuan Yew PhD Scholarship from the Univer
 
 
 ## Contact
-Email: al927 [at] medschl [dot] cam [dot] ac [dot] uk
+Email: al927 [at] medschl.cam.ac.uk
 
 ## University Profile
 [Profile @ Cambridge Neuroscience](https://www.neuroscience.cam.ac.uk/directory/profile.php?audreylow)

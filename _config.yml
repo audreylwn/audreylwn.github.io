@@ -83,8 +83,8 @@ author:
   name             : "Audrey Low"
   avatar           : "profile.png"
   bio              : "PhD candidate at the University of Cambridge"
-  location         : "Cambridge, UK"
-  employer         : "University of Cambridge"
+  location         : 
+  employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=Ka8dILwAAAAJ"
   email            : 
