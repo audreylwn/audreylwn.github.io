@@ -11,6 +11,7 @@ author_profile: true
 
 
 ## Peer-reviewed publications
+* **Low A**, Prats-Sedano MA, Stefaniak JD, McKiernan EF, Carter SF, Dounavi ME, Mak E, Su L, Stupart O, Muniz-Terrera G, Ritchie K, Ritchie CW, Markus HS, O'Brien JT. CAIDE dementia risk score relates to severity and progression of cerebral small vessel disease in healthy midlife adults: the PREVENT-Dementia study. J Neurol Neurosurg Psychiatry. 2022; Epub ahead of print. [[doi](http://dx.doi.org/10.1136/jnnp-2021-327462)]
 * **Low A**, Su L, Stefaniak JD, Mak E, Dounavi ME, Muniz-Terrera G, Ritchie K, Ritchie CW, Markus HS, O'Brien JT. Inherited risk of dementia and the progression of cerebral small vessel disease and inflammatory markers in cognitively healthy midlife adults: the PREVENT-Dementia study. Neurobiol Aging. 2021; 98:124-133. [[doi](https://doi.org/10.1016/j.neurobiolaging.2020.10.029)]
 * Brown R, **Low A**, Markus HS. Rate of, and risk factors for, white matter hyperintensity growth: a systematic review and meta-analysis with implications for clinical trial design. J Neurol Neurosurg Psychiatry. 2021; 92(12):1271-1277. [[doi](https://doi.org/10.1136/jnnp-2021-326569)]
 * Dounavi ME, **Low A**, McKiernan E, Mak E, Muniz-Terrera G, Ritchie K, Ritchie CW, Su L, O'Brien JT. Evidence of cerebral hemodynamic dysregulation in middle-aged APOE ε4 carriers: the PREVENT-Dementia study. J Cereb Blood Flow Metab. 2021; 41(11):2844-2855. [[doi](https://doi.org/10.1177/0271678X211020863)]
