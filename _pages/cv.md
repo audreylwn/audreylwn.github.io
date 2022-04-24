@@ -20,18 +20,21 @@ Education
 
 Awards & Prizes
 ======
-* 2021 - Fitzwilliam Society Trust Travel Grant, University of Cambridge, UK
-* 2020 - Fitzwilliam College Senior Scholarship Award 2020, University of Cambridge, UK
-* 2019 - Lee Kuan Yew Fitzwilliam PhD Scholarship, Cambridge
-* 2019 - Fitzwilliam College Travel Grant - Stachulski Dudding Fund, University of Cambridge, UK
-* 2019 - Alzheimer’s Research UK Travel Grant, ARUK, UK
-* 2019 - Tan Kah Kee Postgraduate Scholarship, Singapore
-* 2018 - Best Junior Researcher Award, National Neuroscience Research Institute Singapore Research Day 
+**Scholarships**
+* Lee Kuan Yew Fitzwilliam PhD Scholarship, Cambridge (£133,056) 
+* Tan Kah Kee Postgraduate Scholarship, Singapore 2019 (£6,790)
 
+**Prizes**
+* Best Junior Researcher Award (2nd), National Neuroscience Research Institute Singapore Research Day 2018
+* i-Project Award: For innovating research capabilities in the Singapore Gov’t (awarded 4 years; 2014-'17)    
+
+**Education awards**
+* Fitzwilliam College Senior Scholarship Award 2022, University of Cambridge, UK
+* Fitzwilliam College Senior Scholarship Award 2021, University of Cambridge, UK    
 
 Talks	
 ======
-* 2022: Oral presentation - Alzheimer’s Research UK Conference (ARUK 2022; to be delivered, Mar’22)
+* 2022: Oral presentation - Alzheimer’s Research UK Conference 2022
 * 2021: Oral presentation - Vas-Cog Conference 2021
 * 2021: Oral presentation - Alzheimer’s Research UK Conference (ARUK 2021) 
 * 2021: Oral presentation - Fitzwilliam College Postgraduate Talks 2021
@@ -52,14 +55,21 @@ Professional Memberships
 * DEMON Network: ARUK Deep Dementia Phenotyping (DEMON) Network
 
 
-Additional Activities
+Additional Activities & Volunteering
 ======
-* **Pint of Science Festival** (Organizer): Plan and coordinate a 3-day conference for researchers across disciplines to discuss their work
-
 * **Fitzwilliam College Welcome Week Committee (University of Cambridge)** (Organizer): Spearhead and coordinate activities planned for incoming postgraduate students 
 
-* **Summer CAMP (Cambridge Access to Mental health and Psychology)** (Organizer, Supervisor): Student-led, inter-department initiative to improve diversity and access to academia through a summer research program developed for under-represented students
+* **Cambridge Access to Mental health and Psychology (Summer CAMP)** (Organizer, Supervisor): Inter-department initiative to improve diversity and access to academia through a summer research program developed for under-represented students
+* **Diamonds & the Ruff** (Volunteer): Engaged children with cancer with pet therapy, befriending, facilitated activities
+* **NNI Dementia Support Group (CARe Programme)** (Volunteer): Assisted clinicians in conducting support group sessions, monitored safety, facilitated activities
+* **iRemember** (Volunteer): Conducted free dementia screening within the local community
 
+
+Public Engagement
+======
+* **Pint of Science Festival** (Organizer): Plan and coordinate a 3-day conference for researchers across disciplines to discuss their work
+* **StudioLilliput** (Founder): Personal online pottery shop raising funds for dementia research charity (Alzheimer's Research UK)
+* **Career Fair, Catholic Junior College, Singapore** (Speaker): Career talk to promote research as a career
 
 Skills & Expertise
 ======
