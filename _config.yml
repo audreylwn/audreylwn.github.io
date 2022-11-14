@@ -75,7 +75,7 @@ social:
 analytics:
   provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          :
+    tracking_id          :"G-REKEVQYMN3"
 
 
 # Site Author
@@ -84,7 +84,7 @@ author:
   avatar           : "profile.png"
   bio              : "PhD candidate at the University of Cambridge"
   location         : 
-  employer         : "Stroke Research Group, Department of Clinical Neurosciences"
+  employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=Ka8dILwAAAAJ"
   email            : 
