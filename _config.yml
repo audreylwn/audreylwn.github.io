@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Audrey Low"
 title_separator          : "-"
 name                     : &name "Audrey Low"
-description              : &description "PhD Candidate at the University of Cambridge"
+description              : &description "Research Associate at the University of Cambridge"
 url                      : https://audreylwn.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "audreylwn.github.io"
@@ -84,7 +84,7 @@ author:
   avatar           : "profile.png"
   bio              : "PhD candidate at the University of Cambridge"
   location         : 
-  employer         : 
+  employer         : "Stroke Research Group, Department of Clinical Neurosciences"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=Ka8dILwAAAAJ"
   email            : 
