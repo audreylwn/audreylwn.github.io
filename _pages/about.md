@@ -27,12 +27,5 @@ Most recently, my research focuses on the associations between cerebral small ve
 
 ## Contact
 Email: al927 [at] medschl.cam.ac.uk
-Phone: +44 (0) 01223 216619
 
-Postal address:
-University of Cambridge 
-Department of Clinical Neurosciences, Neurology Unit 
-R3, Box 83 
-Cambridge Biomedical Campus
-Cambridge, United Kingdom
-CB2 0QQ
+Phone: +44 (0) 01223 216619
