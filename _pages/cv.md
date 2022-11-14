@@ -14,8 +14,8 @@ redirect_from:
 
 Education
 ======
+* PhD in Psychiatry, University of Cambridge, 2019-2022
 * Bachelor (Hons.) in Psychology, National University of Singapore, 2013
-* PhD in Psychiatry, University of Cambridge, 2019-2022 (expected)
 
 
 Awards & Prizes
@@ -35,6 +35,10 @@ Awards & Prizes
 Talks	
 ======
 * 2022: Oral presentation - Alzheimer’s Research UK Conference 2022
+* 2022: Oral presentation - World Stroke Congress (WSC 2022), Short Communications
+* 2022: Oral presentation - Brain & Brain PET, Glasgow 2022
+* 2022: Oral presentation - UK DRI Neuro-Glia-Vascular Unit ECR Series – Glia
+* 2022: Oral presentation - PREVENT General Assembly 2022 
 * 2021: Oral presentation - Vas-Cog Conference 2021
 * 2021: Oral presentation - Alzheimer’s Research UK Conference (ARUK 2021) 
 * 2021: Oral presentation - Fitzwilliam College Postgraduate Talks 2021
@@ -46,6 +50,13 @@ Talks
 * 2020: Oral presentation - PREVENT General Assembly 2020 
 * 2020: Oral presentation - Alzheimer’s Research UK Conference (ARUK 2020)
 * 2018: Oral presentation - National Neuroscience Research Institute Singapore (NNRIS) Research Day 2018 (Best Junior Researcher Award)
+
+
+Teaching
+======
+* Graduate: Co-supervising one MSc student from the University of Sheffield on MSc research project
+* Undergraduate: Co-supervised three medical students from University of Cambridge on research projects
+* Others: Supervising undergrads in program to improve access to academia for under-represented groups
 
 
 Professional Memberships
