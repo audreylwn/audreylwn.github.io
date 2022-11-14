@@ -75,14 +75,14 @@ social:
 analytics:
   provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          :"G-REKEVQYMN3"
+    tracking_id          : "G-REKEVQYMN3"
 
 
 # Site Author
 author:
   name             : "Audrey Low"
   avatar           : "profile.png"
-  bio              : "PhD candidate at the University of Cambridge"
+  bio              : "Research Associate at the University of Cambridge"
   location         : 
   employer         :
   pubmed           : 
