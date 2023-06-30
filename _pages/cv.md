@@ -30,10 +30,11 @@ Professional Experience
 Awards & Prizes
 ======
 **Scholarships**
-* Lee Kuan Yew Fitzwilliam PhD Scholarship, University of Cambridge (£133,056) 
-* Tan Kah Kee Postgraduate Scholarship, Singapore 2019 (£6,790)
+* Lee Kuan Yew Fitzwilliam PhD Scholarship, University of Cambridge 
+* Tan Kah Kee Postgraduate Scholarship, Singapore 2019
 
 **Prizes**
+* Rising Star Award 2023, Alzheimer's Society UK
 * Best Talk, Dementias Platform UK (DPUK) Translation 2023
 * Best Junior Researcher Award (2nd), National Neuroscience Research Institute Singapore Research Day 2018
 * i-Project Award: For innovating research capabilities in the Singapore Gov’t (awarded 4 years; 2014-'17)    
@@ -47,6 +48,7 @@ Talks
 ======
 * 2023: Oral presentation - Dementias Platform UK (DPUK) Translation 2023 (Awarded best talk)
 * 2023: Oral presentation - UK Dementia Research Institute Vascular ECR Workshop
+* 2023: Oral presentation - Cambridge Imaging Festival
 * 2022: Oral presentation - Alzheimer’s Research UK Conference 2022
 * 2022: Oral presentation - World Stroke Congress (WSC 2022), Short Communications
 * 2022: Oral presentation - Brain & Brain PET, Glasgow 2022
@@ -74,7 +76,7 @@ Teaching
 
 Leadership and Mentoring
 ======
-* **VasCog Society ECI representative**: Elected as Early Career Investigator (ECI) representative to help connect and elevate ECIs in the field of vascular cognitive impairment (fron Oct 2023) 
+* **VasCog Society ECI representative**: Elected to the executive committee to elevate early-stage researchers in the field of vascular cognitive impairment (from Oct 2023) 
 * **Summer CAMP supervisor**: Mentoring under-represented students to improve diversity & access to academia as part of the Cambridge Access to Mental health and Psychology program (Summer CAMP)
 * **Trinity College Pdoc/PhD mentoring scheme**: Mentor to neuroscience PhD student as part of the college mentorship programme
 
