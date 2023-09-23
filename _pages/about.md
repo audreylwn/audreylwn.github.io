@@ -10,12 +10,12 @@ redirect_from:
 
 I am a Research Associate at the [Stroke Research Group (University of Cambridge)](https://www.neurology.cam.ac.uk/neurology-unit-research-groups/stroke-research-group/) studying the role of cerebrovascular dysfunction in dementia and cognitive impairment, with the help of multimodal neuroimaging techniques and clinical data in humans.
 
-I am also interested in studying the early risk factors of dementia, and how cerebral small vessel disease is involved in early dementia pathogenesis. In particular, I am interested in how cerebral small vessel disease relates to established dementia risk factors and molecular imaging markers of dementia (e.g., amyloid, tau, neuroinflammation), as a way to further our understanding of how various pathologies interact in their contribution to neurodegeneration and clinical outcomes.
+I am also interested in studying the early risk factors of dementia, and how cerebral small vessel disease is involved in early dementia pathogenesis. In particular, I am interested in how cerebral small vessel disease relates to established dementia risk factors and molecular imaging markers of dementia (e.g., amyloid, tau, neuroinflammation), as a way to further our understanding of how various pathologies interact in their contribution to neurodegeneration and clinical outcomes. Most recently, my research focuses on the associations between cerebral small vessel disease, inflammation, and blood brain barrier permeability. 
 
-Most recently, my research focuses on the associations between cerebral small vessel disease, inflammation, and blood brain barrier permeability. 
+On top of my academic work, I support younger researchers as the Early Career Investigator Representative of the [International Society of Vascular Behavioural and Cognitive Disorders (VasCog)](https://www.vascog.org/). 
 
 ## University Profile
-[Profile @ Cambridge Neuroscience](https://www.neuroscience.cam.ac.uk/directory/profile.php?audreylow)
+[Profile @ Cambridge Neuroscience](https://neuroscience.cam.ac.uk/member/audreylow/)
 
 ## Research Interests
 * Dementia
