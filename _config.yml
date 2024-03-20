@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Audrey Low"
 title_separator          : "-"
 name                     : &name "Audrey Low"
-description              : &description "Research Associate at the University of Cambridge"
+description              : &description "Research Fellow at the University of Cambridge"
 url                      : https://audreylwn.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "audreylwn.github.io"
@@ -82,10 +82,10 @@ analytics:
 author:
   name             : "Audrey Low"
   avatar           : "profile.png"
-  bio              : "Research Associate at the University of Cambridge"
+  bio              : "Research Fellow at the University of Cambridge | Young NUS Fellow"
   location         : 
   employer         :
-  pubmed           : 
+  pubmed           : "https://www.ncbi.nlm.nih.gov/myncbi/audrey.low.1/bibliography/public/"
   googlescholar    : "https://scholar.google.com/citations?user=Ka8dILwAAAAJ"
   email            : 
   researchgate     : "https://www.researchgate.net/profile/Audrey-Low-3"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      :
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/audreylowwn"
   orcid            : "https://orcid.org/0000-0002-2520-454X"
   pinterest        :
   soundcloud       :
