@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Audrey Low"
   avatar           : "profile.png"
-  bio              : "Research Fellow at the University of Cambridge | Young NUS Fellow"
+  bio              : "Race Against Dementia Fellow, University of Cambridge & Mayo Clinic | Young NUS Fellow"
   location         : 
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/myncbi/audrey.low.1/bibliography/public/"
@@ -115,6 +115,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+  webofscience   : "https://www.webofscience.com/wos/author/record/AAD-3439-2022"
 
 
 # Reading Files
