@@ -9,7 +9,7 @@ author_profile: true
 ---
 
 
-Grant, Awards & Prizes
+Grants, Awards & Prizes
 ======
 * **2024-2029:** Race Against Dementia Mayo Clinic Fellowship - _Postdoctoral fellowship grant; USD $500,000 awarded to conduct dementia research at the Mayo Clinic for five years._
 * **2024-2025:** National University of Singapore (NUS) Development Grant - _Awarded to individuals with outstanding academic and international track record in research._
