@@ -28,25 +28,6 @@ Professional Experience
 * Jun 2013 - Sep 2017:  Senior Manager, Behavioural Insights @ Ministry of Communication and Information, Singapore
 
 
-Awards & Prizes
-======
-**Grants**
-* Race Against Dementia Mayo Clinic Fellowship
-* NUS Development Grant, National University of Singapore
-
-**Scholarships**
-* Lee Kuan Yew Fitzwilliam PhD Scholarship, University of Cambridge 
-* Tan Kah Kee Postgraduate Scholarship, Singapore 2019
-
-**Awards/Prizes**
-* Rising Star Award 2023, Alzheimer's Society UK
-* Best Talk, Dementias Platform UK (DPUK) Translation 2023
-* Fitzwilliam College Senior Scholarship Award 2022, University of Cambridge, UK
-* Fitzwilliam College Senior Scholarship Award 2021, University of Cambridge, UK  
-* Best Junior Researcher Award (2nd), National Neuroscience Research Institute Singapore Research Day 2018
-* i-Project Award: For innovating research capabilities in the Singapore Gov't (awarded 4 years; 2014-'17)    
-
-
 Talks	
 ======
 * 2023: Oral presentation - Dementias Platform UK (DPUK) Translation 2023 (Awarded best talk)
