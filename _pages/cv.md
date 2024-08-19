@@ -20,9 +20,8 @@ Education
 
 Professional Experience
 ======
-* end-2024 - Q1 2029:   Research Fellow @ Mayo Clinic, Rochester MN, USA
-* Feb 2024 - end-2024:  Research Fellow @ University of Cambridge, UK
-* Aug 2022 - Feb 2024:  Research Associate @ University of Cambridge, UK
+* Jan 2025 - 2029:      Race Against Dementia Fellow @ Mayo Clinic, Rochester MN, USA
+* Aug 2022 - end-2024:  Research Associate @ University of Cambridge, UK
 * Oct 2019 - Jul 2022:  PhD Candidate @ University of Cambridge, UK
 * Oct 2018 - Aug 2019:  Visiting Researcher @ University of Cambridge, UK
 * Oct 2017 - Sep 2018:  Clinical Research Coordinator @ National Neuroscience Institute, Singapore
