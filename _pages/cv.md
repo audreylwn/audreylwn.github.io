@@ -27,34 +27,41 @@ Professional Experience
 * Jun 2013 - Sep 2017:  Senior Manager, Behavioural Insights @ Ministry of Communication and Information, Singapore
 
 
-Talks	
+Invited Talks
+======
+* **“Managing feedback from  peer review”.** Invited speaker for career development series on the Dementia Researcher Communities platform (Dementia Researcher Salon Series). 10th Jul 2024.
+* **“Shaping Our Future”.** Invited speaker at the The Masters Singapore Alumni Reception Celebrating Lee Kuan Yew 2024, attended by Cambridge alumni and the Prime Minister of Singapore, Mr Lee Hsien Loong. Old Parliament House, Singapore. 8th Jan 2024.
+* **“Inflammation and cerebral small vessel disease in Alzheimer’s disease”.** UK Dementia Research Institute Seminar Series on the Neuro-Glia-Vascular Unit. 14th Jun 2022.
+* **“Small vessel disease and its progression”.** Invited panellist at the Brain Health Symposium, Brain & Brain PET Conference. Glasgow, UK. 1st Jun 2022.
+* **“Cerebral small vessel disease and dementia: Insights from neuroimaging and preclinical changes”.** J. Philip Kistler Stroke Research Meeting, Massachusetts General Hospital. Invited seminar speaker. 5th Oct 2021.  
+* **“Deconstructing dementia: What’s vessels got to do with it?”.** Fitzwilliam College Postgraduate Talks, University of Cambridge. 12th Jun 2021.
+* **“A glimpse into research as a career”.** Fireside Chats with Industry Professionals, Catholic Junior College, Singapore. Invited panellist for career event for high school students. 24th Nov 2020.
+
+
+Conferences Presentations	
 ======
 * 2023: Oral presentation - Dementias Platform UK (DPUK) Translation 2023 (Awarded best talk)
 * 2023: Oral presentation - UK Dementia Research Institute Vascular ECR Workshop
 * 2023: Oral presentation - Cambridge Imaging Festival
 * 2022: Oral presentation - Alzheimer's Research UK Conference 2022
 * 2022: Oral presentation - World Stroke Congress (WSC 2022), Short Communications
-* 2022: Oral presentation - Brain & Brain PET, Glasgow 2022
-* 2022: Oral presentation - UK DRI Neuro-Glia-Vascular Unit ECR Series - Glia
 * 2022: Oral presentation - PREVENT General Assembly 2022 
 * 2021: Oral presentation - Vas-Cog Conference 2021
 * 2021: Oral presentation - Alzheimer's Research UK Conference (ARUK 2021) 
-* 2021: Oral presentation - Fitzwilliam College Postgraduate Talks 2021
 * 2021: Data blitz - 5th Preclinical Stroke Symposium 2021
 * 2021: Data blitz - Cambridge Imaging Festival 2021
 * 2021: Data blitz - UK-DRI Vascular Theme Early Career Researcher Meeting 2021
-* 2021: Poster presentation - PREVENT General Assembly 2021
 * 2020: Oral presentation - Alzheimer's Association International Conference (AAIC 2020)
 * 2020: Oral presentation - PREVENT General Assembly 2020 
 * 2020: Oral presentation - Alzheimer's Research UK Conference (ARUK 2020)
 * 2018: Oral presentation - National Neuroscience Research Institute Singapore (NNRIS) Research Day 2018 (Best Junior Researcher Award)
 
 
-Teaching
+<!-- Teaching
 ======
 * Graduate: Co-supervising one MSc student from the University of Sheffield on MSc research project
 * Undergraduate: Co-supervised three medical students from University of Cambridge on research projects
-* Others: Supervising undergrads in program to improve access to academia for under-represented groups
+* Others: Supervising undergrads in program to improve access to academia for under-represented groups -->
 
 
 Leadership and Volunteer Activities
@@ -70,12 +77,10 @@ Leadership and Volunteer Activities
 
 Public Engagement
 ======
-* **LKY100 Fitzwilliam College Reception** (Speaker, 2024): Delivered speech to Singapore's Prime Minister Lee Hsien Loong & distinguished Cambridge alumni 
 * **Cambridge Festival** (Volunteer, 2023): Hosted hands-on interactive exhibit with CamBRAIN to promote brain awareness amongst children and young adults
 * **Pint of Science Festival** (Organizer, 2022): Planned and coordinated a 3-day public engagement event for researchers to share their work with the public 
 * **Big Biology Day** (Volunteer, 2022): Engaged with children and families to educate them about dementia with activities and models 
 * **Studio Lilliput** (Founder): Personal online pottery shop raising funds for dementia research charities 
-* **Career Fair, Catholic Junior College, Singapore** (Speaker, 2020): Career talk to promote research as a career
 
 
 Professional Memberships
