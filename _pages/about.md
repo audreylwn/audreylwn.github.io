@@ -14,8 +14,11 @@ I am also interested in studying the early risk and resilience factors of dement
 
 On top of my academic work, I support younger researchers as the Early Career Investigator Representative of the [International Society of Vascular Behavioural and Cognitive Disorders (VasCog)](https://www.vascog.org/). 
 
-## University Profile
-[Profile @ Cambridge Neuroscience](https://neuroscience.cam.ac.uk/member/audreylow/)
+## Profiles
+* [Profile @ Cambridge Neuroscience](https://neuroscience.cam.ac.uk/member/audreylow/)
+* [Profile @ Dementia Researcher](https://www.dementiaresearcher.nihr.ac.uk/profile-dr-audrey-low-university-of-cambridge/)
+* [Profile @ Race Against Dementia](https://www.raceagainstdementia.com/rad-fellows/dr-audrey-low/)
+
 
 ## Research Interests
 * Dementia
