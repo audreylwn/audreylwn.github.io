@@ -11,7 +11,6 @@ redirect_from:
 
 
 
-
 Education
 ======
 * PhD in Psychiatry, University of Cambridge, 2019-2022
