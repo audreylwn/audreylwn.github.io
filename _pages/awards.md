@@ -8,6 +8,9 @@ author_profile: true
 #   - "/awards.html"
 ---
 
+{% include base_path %}
+
+
 Grant, Awards & Prizes
 ======
 * 2024 - National University of Singapore (NUS) Development Grant
