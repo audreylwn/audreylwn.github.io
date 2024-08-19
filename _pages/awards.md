@@ -8,8 +8,6 @@ author_profile: true
 #   - "/awards.html"
 ---
 
-#{% include base_path %}
-
 
 Grant, Awards & Prizes
 ======
