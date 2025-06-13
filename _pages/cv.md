@@ -19,8 +19,8 @@ Education
 
 Professional Experience
 ======
-* Jan 2025 - 2029:      Race Against Dementia Fellow @ Mayo Clinic, Rochester MN, USA
-* Aug 2022 - end-2024:  Research Associate @ University of Cambridge, UK
+* Mar 2025 - Present:   Race Against Dementia Fellow @ Mayo Clinic, Rochester MN, USA
+* Aug 2022 - Mar 2024:  Research Associate @ University of Cambridge, UK
 * Oct 2019 - Jul 2022:  PhD Candidate @ University of Cambridge, UK
 * Oct 2018 - Aug 2019:  Visiting Researcher @ University of Cambridge, UK
 * Oct 2017 - Sep 2018:  Clinical Research Coordinator @ National Neuroscience Institute, Singapore
@@ -29,6 +29,7 @@ Professional Experience
 
 Invited Talks
 ======
+* **"Traumatic brain injury in a community-based cohort: Neuroimaging & clinical features".** Invited speaker for Karolinksa Instuitutet Virtual Morning Coffee Meeting, with the Center for Alzheimer Research. 19th Mar 2025.
 * **“Managing feedback from  peer review”.** Invited speaker for career development series on the Dementia Researcher Communities platform (Dementia Researcher Salon Series). 10th Jul 2024.
 * **“Shaping Our Future”.** Invited speaker at the The Masters Singapore Alumni Reception Celebrating Lee Kuan Yew 2024, attended by Cambridge alumni and the Prime Minister of Singapore, Mr Lee Hsien Loong. Old Parliament House, Singapore. 8th Jan 2024.
 * **“Inflammation and cerebral small vessel disease in Alzheimer’s disease”.** UK Dementia Research Institute Seminar Series on the Neuro-Glia-Vascular Unit. 14th Jun 2022.
@@ -40,6 +41,9 @@ Invited Talks
 
 Conferences Presentations	
 ======
+* 2025: Oral presentation - Alzheimer’s Association International Conference (AAIC)
+* 2024: Oral presentation - PREVENT General Assembly 2024 (SVD & neighbourhood deprivation)
+* 2024: Oral presentation - PREVENT General Assembly 2024 (SVD & traumatic brain injury)
 * 2023: Oral presentation - Dementias Platform UK (DPUK) Translation 2023 (Awarded best talk)
 * 2023: Oral presentation - UK Dementia Research Institute Vascular ECR Workshop
 * 2023: Oral presentation - Cambridge Imaging Festival

@@ -14,6 +14,7 @@ author_profile: true
 
 Grants, Awards & Prizes
 ======
+* **2025:** Rising Star Award, WeAreTheCity - _Recognised as one of the UK’s Top 5 female early career professionals in the Education & Academia sector._
 * **2024-2029:** Race Against Dementia Mayo Clinic Fellowship - _Postdoctoral fellowship grant; USD $500,000 awarded to conduct dementia research at the Mayo Clinic for five years._
 * **2024-2025:** National University of Singapore (NUS) Development Grant - _Awarded to individuals with outstanding academic and international track record in research._
 * **2023 July:** Rising Star Award, Alzheimer's Society UK - _As part of the Alzheimer's Society Dementia Research Excellence and People Awards, the Rising Star Award recognises early career researchers (up to 3 years post-PhD) for remarkable success in their research career thus far. One exceptional researcher is selected across the UK each year._
