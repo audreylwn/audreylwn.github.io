@@ -1,45 +1,41 @@
 ---
 permalink: /awards/
-title: Grants, Awards & Prizes
+#title: ""
+#excerpt: "This is a page not in th emain menu"
 author_profile: true
+# redirect_from: 
+#   - "/awards/"
+#   - "/awards.html"
 ---
 
+{% include base_path %}
 
-<section>
-  <ul>
-    <li><em>2025:</em> <strong>Rising Star Award, WeAreTheCity</strong> — Recognised as one of the UK’s Top 5 female early career professionals in the Education & Academia sector.</li>
 
-    <li><em>2024–2029:</em> <strong>Race Against Dementia Mayo Clinic Fellowship</strong> — Postdoctoral fellowship grant; USD $500,000 awarded to conduct dementia research at the Mayo Clinic for five years.</li>
 
-    <li><em>2024–2025:</em> <strong>National University of Singapore (NUS) Development Grant</strong> — Awarded to individuals with outstanding academic and international track record in research.</li>
+Grants, Awards & Prizes
+======
+* **2025:** Rising Star Award, WeAreTheCity - _Recognised as one of the UK’s Top 5 female early career professionals in the Education & Academia sector._
+* **2024-2029:** Race Against Dementia Mayo Clinic Fellowship - _Postdoctoral fellowship grant; USD $500,000 awarded to conduct dementia research at the Mayo Clinic for five years._
+* **2024-2025:** National University of Singapore (NUS) Development Grant - _Awarded to individuals with outstanding academic and international track record in research._
+* **2023 July:** Rising Star Award, Alzheimer's Society UK - _As part of the Alzheimer's Society Dementia Research Excellence and People Awards, the Rising Star Award recognises early career researchers (up to 3 years post-PhD) for remarkable success in their research career thus far. One exceptional researcher is selected across the UK each year._
+* **2023-2024:** National University of Singapore (NUS) Development Grant - _Awarded to individuals with outstanding academic and international track record in research._
+* **2023 March:** Best Talk, Dementias Platform UK (DPUK) Translation 2023
+* **2023 Feb:** Alzheimer’s Research UK Travel Grant
+* **2022 Sep:** Brain Travel Award, Guarantors of Brain
+* **2022 Sep:** Fitzwilliam Society Trust Travel Grant, University of Cambridge, UK
+* **2022 May:** Alzheimer’s Research UK Travel Grant 
+* **2022 March:** Fitzwilliam College Senior Scholarship Award, University of Cambridge, UK - _Awarded to the college's highest performing PhD students in recognition of excellent intellectual achievements._
+* **2021 Nov:** Alzheimer’s Research UK Travel Grant
+* **2021 Oct:** Fitzwilliam Society Trust Travel Grant, University of Cambridge, UK
+* **2020 Dec:** Fitzwilliam College Senior Scholarship Award, University of Cambridge, UK - _Awarded to the college's highest performing PhD students in recognition of excellent intellectual achievements._
+* **2020 Nov:** Alzheimer’s Research UK Travel Grant
+* **2019 Dec:** Alzheimer’s Research UK Travel Grant _(Note: Awarded but returned due to travel restrictions during COVID lockdown)_
+* **2019 Nov:** Stachulski Dudding Travel Grant, University of Cambridge, UK
+* **2019-2022:** Lee Kuan Yew Fitzwilliam PhD Scholarship, University of Cambridge - _Fully funded PhD studentship paying tuition fees and maintenance for the full duration of PhD studies at the University of Cambridge, bond-free._
+* **2019:** Tan Kah Kee Postgraduate Scholarship, Singapore - _Scholarship awarded by the Tan Kah Kee Foundation, in recognition of academic achievements and contribution in community and social services._
+* **2018:** Best Junior Researcher Award, National Neuroscience Research Institute Singapore Research Day
+* **2014-2017:** i-Project Award - _Awarded four years in a row for contributions toward driving innovation in the research capabilities of the Singapore Government._
 
-    <li><em>July 2023:</em> <strong>Rising Star Award, Alzheimer's Society UK</strong> — Recognises early career researchers for remarkable success within 3 years post-PhD. One exceptional UK-based researcher selected annually.</li>
 
-    <li><em>2023–2024:</em> <strong>NUS Development Grant</strong> — Awarded to individuals with outstanding academic and international track record in research.</li>
 
-    <li><em>Mar 2023:</em> <strong>Best Talk, DPUK Translation 2023</strong></li>
-    <li><em>Feb 2023:</em> <strong>Alzheimer’s Research UK Travel Grant</strong></li>
-    <li><em>Sep 2022:</em> <strong>Brain Travel Award, Guarantors of Brain</strong></li>
-    <li><em>Sep 2022:</em> <strong>Fitzwilliam Society Trust Travel Grant</strong></li>
-    <li><em>May 2022:</em> <strong>Alzheimer’s Research UK Travel Grant</strong></li>
 
-    <li><em>Mar 2022:</em> <strong>Fitzwilliam College Senior Scholarship Award</strong> — Awarded to the college's highest performing PhD students in recognition of excellent intellectual achievements.</li>
-
-    <li><em>Nov 2021:</em> <strong>Alzheimer’s Research UK Travel Grant</strong></li>
-    <li><em>Oct 2021:</em> <strong>Fitzwilliam Society Trust Travel Grant</strong></li>
-
-    <li><em>Dec 2020:</em> <strong>Fitzwilliam College Senior Scholarship Award</strong> — Awarded to the college's highest performing PhD students in recognition of excellent intellectual achievements.</li>
-
-    <li><em>Nov 2020:</em> <strong>Alzheimer’s Research UK Travel Grant</strong></li>
-    <li><em>Dec 2019:</em> <strong>Alzheimer’s Research UK Travel Grant</strong> — (Awarded but returned due to COVID travel restrictions)</li>
-    <li><em>Nov 2019:</em> <strong>Stachulski Dudding Travel Grant</strong></li>
-
-    <li><em>2019–2022:</em> <strong>Lee Kuan Yew Fitzwilliam PhD Scholarship</strong> — Fully funded PhD studentship covering tuition and maintenance at University of Cambridge, bond-free.</li>
-
-    <li><em>2019:</em> <strong>Tan Kah Kee Postgraduate Scholarship</strong> — Awarded for academic excellence and service contributions in Singapore.</li>
-
-    <li><em>2018:</em> <strong>Best Junior Researcher Award, NNRIS Research Day</strong></li>
-
-    <li><em>2014–2017:</em> <strong>i-Project Award</strong> — Awarded four years running for innovation in Singapore Government research initiatives.</li>
-  </ul>
-</section>

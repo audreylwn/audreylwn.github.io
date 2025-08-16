@@ -6,28 +6,15 @@
    Typography
    ========================================================================== */
 
+$doc-font-size              : 13;
+
 /* paragraph indention */
 $paragraph-indent           : false; // true, false (default)
 $indent-var                 : 1.3em;
 
-// @import url('https://fonts.googleapis.com/css2?family=EB+Garamond&display=swap');
-// @import url('https://fonts.googleapis.com/css2?family=EB+Garamond:wght@400;700&display=swap');
-// @import url('https://fonts.googleapis.com/css2?family=Assistant:wght@300;400;500;600;700&family=Hind:wght@300;400;500;600;700&family=IBM+Plex+Sans:wght@300;400;500;600;700&family=Inter:wght@300;400;500;600;700&family=Lato:wght@300;400;700&family=Nunito+Sans:wght@300;400;600;700&family=Open+Sans:wght@300;400;600;700&family=Public+Sans:wght@300;400;500;600;700&family=Source+Sans+Pro:wght@300;400;600;700&family=Work+Sans:wght@300;400;500;600;700&display=swap');
-// @import url("https://fontlibrary.org/face/computer-modern");
-// @import url("https://fonts.googleapis.com/css2?family=DM+Sans:ital,wght@0,100..900;1,100..900&display=swap");
-// @import url("https://fonts.googleapis.com/css2?family=STIX+Two+Text:ital,wght@0,400..700;1,400..700&display=swap");
-// @import url("https://fonts.googleapis.com/css2?family=STIX+Two+Math&display=swap");
-// @import url("https://fonts.googleapis.com/css2?family=DM+Display:wght@400;500;700&display=swap");
-// @import url("https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@400;500;700&display=swap");
-// @import url("https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap");
-
-// /* system typefaces */
-// $serif                      : Georgia, Times, serif;
-// $sans-serif                 : -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
-
-$serif                      : "EB Garamond", Georgia, Times, serif;
-$sans-serif                 : "Georgia", "EB Garamond", sans-serif;
-
+/* system typefaces */
+$serif                      : Georgia, Times, serif;
+$sans-serif                 : -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
 $monospace                  : Monaco, Consolas, "Lucida Console", monospace;
 
 /* sans serif typefaces */
@@ -42,30 +29,18 @@ $calisto                    : "Calisto MT", serif;
 $garamond                   : Garamond, serif;
 
 $global-font-family         : $sans-serif;
-$header-font-family         : $serif;
+$header-font-family         : $sans-serif;
 $caption-font-family        : $serif;
 
 /* type scale */
-$type-scale-multiplier: 1;
-$doc-font-size              : 13;
-
-$type-size-1: 2.441em * $type-scale-multiplier;
-$type-size-2: 1.953em * $type-scale-multiplier;
-$type-size-3: 1.563em * $type-scale-multiplier;
-$type-size-4: 1.25em  * $type-scale-multiplier;
-$type-size-5: 1em     * $type-scale-multiplier;
-$type-size-6: 0.75em  * $type-scale-multiplier;
-$type-size-7: 0.6875em * $type-scale-multiplier;
-$type-size-8: 0.625em * $type-scale-multiplier;
-
-// $type-size-1                : 2.441em;  // ~39.056px
-// $type-size-2                : 1.953em;  // ~31.248px
-// $type-size-3                : 1.563em;  // ~25.008px
-// $type-size-4                : 1.25em;   // ~20px
-// $type-size-5                : 1em;      // ~16px
-// $type-size-6                : 0.75em;   // ~12px
-// $type-size-7                : 0.6875em; // ~11px
-// $type-size-8                : 0.625em;  // ~10px
+$type-size-1                : 2.441em;  // ~39.056px
+$type-size-2                : 1.953em;  // ~31.248px
+$type-size-3                : 1.563em;  // ~25.008px
+$type-size-4                : 1.25em;   // ~20px
+$type-size-5                : 1em;      // ~16px
+$type-size-6                : 0.75em;   // ~12px
+$type-size-7                : 0.6875em; // ~11px
+$type-size-8                : 0.625em;  // ~10px
 
 
 /*
@@ -78,12 +53,12 @@ $darker-gray                : mix(#000, $gray, 60%);
 $light-gray                 : mix(#fff, $gray, 50%);
 $lighter-gray               : mix(#fff, $gray, 90%);
 
-$body-color                 : #F4F1ED; //#fff;
-$background-color           : #F4F1ED; //#fff;
+$body-color                 : #fff;
+$background-color           : #fff;
 $code-background-color      : #fafafa;
 $code-background-color-dark : $light-gray;
 $text-color                 : $dark-gray;
-$border-color               : #F4F1ED;
+$border-color               : $lighter-gray;
 
 $primary-color              : #7a8288;
 $success-color              : #62c462;

@@ -1,46 +1,5 @@
 ---
 layout: archive
-title: Peer-reviewed Publications
-permalink: /publications/
-author_profile: true
----
-
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% assign pubs = site.data.publications | sort: 'year' | reverse %}
-{% assign years = pubs | map: 'year' | uniq %}
-
-{% for year in years %}
-
-### {{ year }}
-
-{% for pub in pubs %}
-  {% if pub.year == year %}
-
-  {% assign has_link = pub.url != nil and pub.url != '' %}
-  <p style="margin: 0.4em 0 0.2em 0; font-size: 0.9em">
-    {% if has_link %}
-      🔗 <a href="{{ pub.url }}" style="text-decoration: none; color: inherit;"><strong>{{ pub.title }}</strong></a>
-    {% else %}
-      <strong>{{ pub.title }}</strong>
-    {% endif %}
-  </p>
-  <p style="margin-top: 0; font-size: 0.9em;">
-    {{ pub.authors }}.<br/>
-    <em>{{ pub.venue }}.</em>
-    {% if pub.notes %}<br/>{{ pub.notes }}{% endif %}
-  </p>
-
-  {% endif %}
-{% endfor %}
-
-{% endfor %}
-
-
-<!-- ---
-layout: archive
 title: "Publications"
 permalink: /publications/
 author_profile: true
@@ -84,5 +43,4 @@ author_profile: true
 * **Low A**, Yong T, Chandler RJ, Ng KP, Kandiah N. Predictors and Patterns of Cognitive Decline Differ between Mild Cognitive Impairment in Parkinson’s disease (PD-MCI) and Alzheimer’s disease (AD-MCI). J Alzheimers Parkinsonism Dement. 2019; 3(1): 27.
 * **Low A**, Lim L, Lim L, Wong B, Silva E, Ng KP, Kandiah N. Construct Validity of the Visual Cognitive Assessment Test (VCAT): A Cross-Cultural Language-Neutral Cognitive Screening Tool. Int Psychogeriatr. 2019; 21:1-9. [[doi](https://doi.org/10.1017/S1041610219000504)]
 
- -->
 
