@@ -30,14 +30,15 @@ On top of my academic work, I support younger researchers as the Early Career In
 * [Profile @ Dementia Researcher](https://www.dementiaresearcher.nihr.ac.uk/profile-dr-audrey-low-university-of-cambridge/)
 * [Profile @ Race Against Dementia](https://www.raceagainstdementia.com/rad-fellows/dr-audrey-low/)
 
-
 ## Research Interests
-* Dementia
-* Cerebral small vessel disease 
-* Inflammation 
-* Blood brain barrier
-* Neuroimaging 
-* Cognition
+<ul class="tight-list">
+  <li>Dementia</li>
+  <li>Cerebral small vessel disease </li>
+  <li>Inflammation </li>
+  <li>Blood brain barrier </li>
+  <li>Neuroimaging </li>
+  <li>Cognition </li>
+</ul>
 
 ## Contact
 <!-- HTML -->

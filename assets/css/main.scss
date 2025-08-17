@@ -118,7 +118,7 @@ font-display: swap;
 // Headers
 h1 {
 font-family: "Crimson Pro", $serif;
-font-weight: 550; //600;
+font-weight: 650; //600;
 margin-top: 1.2em;
 margin-bottom: 0.5em;
 line-height: 1.2;
@@ -126,7 +126,7 @@ border-bottom: none !important;
 }
 h2 {
 font-family: "Crimson Pro", $serif;
-font-weight: 550; //600;
+font-weight: 650; //600;
 margin-top: 1.2em;
 margin-bottom: -0em;
 line-height: 1.2;
@@ -301,5 +301,10 @@ margin-top: -0em;
 }
 ul li::marker {
 font-size: 0.7em;        /* smaller bullet */
+}
+
+// For lists that we want to make compact
+ul.tight-list li {
+margin-bottom: 0.15em;  /* default is ~0.5–1em */
 }
   
