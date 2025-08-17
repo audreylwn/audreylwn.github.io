@@ -14,7 +14,7 @@ redirect_from:
 }
 </style>
 
-<a id="about" style="display: block; position: relative; top: -200px; visibility: hidden;"></a>
+<a id="about" style="display: block; position: relative; top: -400px; visibility: hidden;"></a>
 <h1 class="about-heading">About</h1>
 
 I am a Senior Research Associate at the Mayo Clinic (Rochester, MN, USA) working in the [Aging and Dementia Imaging Research (ADIR) Laboratory](https://www.mayo.edu/research/labs/aging-dementia-imaging/overview) and supported by a research fellowship grant from [Race Against Dementia](https://www.raceagainstdementia.com/).
