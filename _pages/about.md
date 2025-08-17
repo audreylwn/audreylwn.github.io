@@ -45,7 +45,7 @@ Email: low.audrey@mayo.edu
 <a id="publications" style="display: block; position: relative; top: -70px; visibility: hidden;"></a>
 # Peer-reviewed Publications
 
-You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
+You can also find my articles on [my Google Scholar profile](https://scholar.google.com/citations?user=Ka8dILwAAAAJ).
 
 
 * Burke J, Gibbon S, **Low A**, Hamid C, Reid-Schachter M, Muniz-Terrera G, Ritchie CW, Dhillon B, O’Brien JT, MacCormick IJC, MacGillivray TJ. Association between choroidal microvasculature in the eye and Alzheimer’s disease risk in cognitively healthy midlife adults. Alzheimer’s Dement. 2025;17:e70075. [[doi](http://dx.doi.org/10.1002/dad2.70075)] 
@@ -83,76 +83,76 @@ You can also find my articles on <u><a href="{{author.googlescholar}}">my Google
 <a id="awards" style="display: block; position: relative; top: -70px; visibility: hidden;"></a>
 # Grants, Awards & Prizes
 
-* **2025:** Rising Star Award, WeAreTheCity - _Recognised as one of the UK’s Top 5 female early career professionals in the Education & Academia sector._
-* **2024-2029:** Race Against Dementia Mayo Clinic Fellowship - _Postdoctoral fellowship grant; USD $500,000 awarded to conduct dementia research at the Mayo Clinic for five years._
-* **2024-2025:** National University of Singapore (NUS) Development Grant - _Awarded to individuals with outstanding academic and international track record in research._
-* **2023 July:** Rising Star Award, Alzheimer's Society UK - _As part of the Alzheimer's Society Dementia Research Excellence and People Awards, the Rising Star Award recognises early career researchers (up to 3 years post-PhD) for remarkable success in their research career thus far. One exceptional researcher is selected across the UK each year._
-* **2023-2024:** National University of Singapore (NUS) Development Grant - _Awarded to individuals with outstanding academic and international track record in research._
+* **2025:** Rising Star Award, WeAreTheCity — _Recognised as one of the UK’s Top 5 female early career professionals in the Education & Academia sector._
+* **2024–2029:** Race Against Dementia Mayo Clinic Fellowship — _Postdoctoral fellowship grant; USD $500,000 awarded to conduct dementia research at the Mayo Clinic for five years._
+* **2024–2025:** National University of Singapore (NUS) Development Grant — _Awarded to individuals with outstanding academic and international track record in research._
+* **2023 July:** Rising Star Award, Alzheimer's Society UK — _As part of the Alzheimer's Society Dementia Research Excellence and People Awards, the Rising Star Award recognises early career researchers (up to 3 years post-PhD) for remarkable success in their research career thus far. One exceptional researcher is selected across the UK each year._
+* **2023–2024:** National University of Singapore (NUS) Development Grant — _Awarded to individuals with outstanding academic and international track record in research._
 * **2023 March:** Best Talk, Dementias Platform UK (DPUK) Translation 2023
 * **2023 Feb:** Alzheimer’s Research UK Travel Grant
 * **2022 Sep:** Brain Travel Award, Guarantors of Brain
 * **2022 Sep:** Fitzwilliam Society Trust Travel Grant, University of Cambridge, UK
 * **2022 May:** Alzheimer’s Research UK Travel Grant 
-* **2022 March:** Fitzwilliam College Senior Scholarship Award, University of Cambridge, UK - _Awarded to the college's highest performing PhD students in recognition of excellent intellectual achievements._
+* **2022 March:** Fitzwilliam College Senior Scholarship Award, University of Cambridge, UK — _Awarded to the college's highest performing PhD students in recognition of excellent intellectual achievements._
 * **2021 Nov:** Alzheimer’s Research UK Travel Grant
 * **2021 Oct:** Fitzwilliam Society Trust Travel Grant, University of Cambridge, UK
-* **2020 Dec:** Fitzwilliam College Senior Scholarship Award, University of Cambridge, UK - _Awarded to the college's highest performing PhD students in recognition of excellent intellectual achievements._
+* **2020 Dec:** Fitzwilliam College Senior Scholarship Award, University of Cambridge, UK — _Awarded to the college's highest performing PhD students in recognition of excellent intellectual achievements._
 * **2020 Nov:** Alzheimer’s Research UK Travel Grant
 * **2019 Dec:** Alzheimer’s Research UK Travel Grant _(Note: Awarded but returned due to travel restrictions during COVID lockdown)_
 * **2019 Nov:** Stachulski Dudding Travel Grant, University of Cambridge, UK
-* **2019-2022:** Lee Kuan Yew Fitzwilliam PhD Scholarship, University of Cambridge - _Fully funded PhD studentship paying tuition fees and maintenance for the full duration of PhD studies at the University of Cambridge, bond-free._
-* **2019:** Tan Kah Kee Postgraduate Scholarship, Singapore - _Scholarship awarded by the Tan Kah Kee Foundation, in recognition of academic achievements and contribution in community and social services._
+* **2019–2022:** Lee Kuan Yew Fitzwilliam PhD Scholarship, University of Cambridge — _Fully funded PhD studentship paying tuition fees and maintenance for the full duration of PhD studies at the University of Cambridge, bond-free._
+* **2019:** Tan Kah Kee Postgraduate Scholarship, Singapore — _Scholarship awarded by the Tan Kah Kee Foundation, in recognition of academic achievements and contribution in community and social services._
 * **2018:** Best Junior Researcher Award, National Neuroscience Research Institute Singapore Research Day
-* **2014-2017:** i-Project Award - _Awarded four years in a row for contributions toward driving innovation in the research capabilities of the Singapore Government._
+* **2014–2017:** i-Project Award — _Awarded four years in a row for contributions toward driving innovation in the research capabilities of the Singapore Government._
 
 
 <a id="cv" style="display: block; position: relative; top: -58px; visibility: hidden;"></a>
 # Curriculum Vitae
 
 ## Education
-* PhD in Psychiatry, University of Cambridge, 2019-2022
+* PhD in Psychiatry, University of Cambridge, 2019–2022
 * Bachelor (Hons.) in Psychology, National University of Singapore, 2013
 
 
 ## Professional Experience
-* Mar 2025 - Present:   Race Against Dementia Fellow @ Mayo Clinic, Rochester MN, USA
-* Aug 2022 - Mar 2024:  Research Associate @ University of Cambridge, UK
-* Oct 2019 - Jul 2022:  PhD Candidate @ University of Cambridge, UK
-* Oct 2018 - Aug 2019:  Visiting Researcher @ University of Cambridge, UK
-* Oct 2017 - Sep 2018:  Clinical Research Coordinator @ National Neuroscience Institute, Singapore
-* Jun 2013 - Sep 2017:  Senior Manager, Behavioural Insights @ Ministry of Communication and Information, Singapore
+* Mar 2025–Present:   Race Against Dementia Fellow @ Mayo Clinic, Rochester MN, USA
+* Aug 2022–Mar 2024:  Research Associate @ University of Cambridge, UK
+* Oct 2019–Jul 2022:  PhD Candidate @ University of Cambridge, UK
+* Oct 2018–Aug 2019:  Visiting Researcher @ University of Cambridge, UK
+* Oct 2017–Sep 2018:  Clinical Research Coordinator @ National Neuroscience Institute, Singapore
+* Jun 2013–Sep 2017:  Senior Manager, Behavioural Insights @ Ministry of Communication and Information, Singapore
 
 
 ## Invited Talks
-* **"Traumatic brain injury in a community-based cohort: Neuroimaging & clinical features".** Invited speaker for Karolinksa Instuitutet Virtual Morning Coffee Meeting, with the Center for Alzheimer Research. 19th Mar 2025.
-* **“Managing feedback from  peer review”.** Invited speaker for career development series on the Dementia Researcher Communities platform (Dementia Researcher Salon Series). 10th Jul 2024.
-* **“Shaping Our Future”.** Invited speaker at the The Masters Singapore Alumni Reception Celebrating Lee Kuan Yew 2024, attended by Cambridge alumni and the Prime Minister of Singapore, Mr Lee Hsien Loong. Old Parliament House, Singapore. 8th Jan 2024.
-* **“Inflammation and cerebral small vessel disease in Alzheimer’s disease”.** UK Dementia Research Institute Seminar Series on the Neuro-Glia-Vascular Unit. 14th Jun 2022.
-* **“Small vessel disease and its progression”.** Invited panellist at the Brain Health Symposium, Brain & Brain PET Conference. Glasgow, UK. 1st Jun 2022.
-* **“Cerebral small vessel disease and dementia: Insights from neuroimaging and preclinical changes”.** J. Philip Kistler Stroke Research Meeting, Massachusetts General Hospital. Invited seminar speaker. 5th Oct 2021.  
-* **“Deconstructing dementia: What’s vessels got to do with it?”.** Fitzwilliam College Postgraduate Talks, University of Cambridge. 12th Jun 2021.
-* **“A glimpse into research as a career”.** Fireside Chats with Industry Professionals, Catholic Junior College, Singapore. Invited panellist for career event for high school students. 24th Nov 2020.
+* **<span style="display: inline-block; margin-left: -0.0em;">“</span>Traumatic brain injury in a community-based cohort: Neuroimaging & clinical features".** Invited speaker for Karolinksa Instuitutet Virtual Morning Coffee Meeting, with the Center for Alzheimer Research. 19<sup>th</sup> Mar 2025.
+* **<span style="display: inline-block; margin-left: -0.0em;">“</span>Managing feedback from  peer review”.** Invited speaker for career development series on the Dementia Researcher Communities platform (Dementia Researcher Salon Series). 10<sup>th</sup> Jul 2024.
+* **<span style="display: inline-block; margin-left: -0.0em;">“</span>Shaping Our Future”.** Invited speaker at the The Masters Singapore Alumni Reception Celebrating Lee Kuan Yew 2024, attended by Cambridge alumni and the Prime Minister of Singapore, Mr Lee Hsien Loong. Old Parliament House, Singapore. 8<sup>th</sup> Jan 2024.
+* **<span style="display: inline-block; margin-left: -0.0em;">“</span>Inflammation and cerebral small vessel disease in Alzheimer’s disease”.** UK Dementia Research Institute Seminar Series on the Neuro-Glia-Vascular Unit. 14<sup>th</sup> Jun 2022.
+* **<span style="display: inline-block; margin-left: -0.0em;">“</span>Small vessel disease and its progression”.** Invited panellist at the Brain Health Symposium, Brain & Brain PET Conference. Glasgow, UK. 1<sup>st</sup> Jun 2022.
+* **<span style="display: inline-block; margin-left: -0.0em;">“</span>Cerebral small vessel disease and dementia: Insights from neuroimaging and preclinical changes”.** J. Philip Kistler Stroke Research Meeting, Massachusetts General Hospital. Invited seminar speaker. 5<sup>th</sup> Oct 2021.  
+* **<span style="display: inline-block; margin-left: -0.0em;">“</span>Deconstructing dementia: What’s vessels got to do with it?”.** Fitzwilliam College Postgraduate Talks, University of Cambridge. 12<sup>th</sup> Jun 2021.
+* **<span style="display: inline-block; margin-left: -0.0em;">“</span>A glimpse into research as a career”.** Fireside Chats with Industry Professionals, Catholic Junior College, Singapore. Invited panellist for career event for high school students. 24<sup>th</sup> Nov 2020.
 
 
 ## Conference Presentations	
-* 2025: Oral presentation - Alzheimer’s Association International Conference (AAIC)
-* 2024: Oral presentation - PREVENT General Assembly 2024 (SVD & neighbourhood deprivation)
-* 2024: Oral presentation - PREVENT General Assembly 2024 (SVD & traumatic brain injury)
-* 2023: Oral presentation - Dementias Platform UK (DPUK) Translation 2023 (Awarded best talk)
-* 2023: Oral presentation - UK Dementia Research Institute Vascular ECR Workshop
-* 2023: Oral presentation - Cambridge Imaging Festival
-* 2022: Oral presentation - Alzheimer's Research UK Conference 2022
-* 2022: Oral presentation - World Stroke Congress (WSC 2022), Short Communications
-* 2022: Oral presentation - PREVENT General Assembly 2022 
-* 2021: Oral presentation - Vas-Cog Conference 2021
-* 2021: Oral presentation - Alzheimer's Research UK Conference (ARUK 2021) 
-* 2021: Data blitz - 5th Preclinical Stroke Symposium 2021
-* 2021: Data blitz - Cambridge Imaging Festival 2021
-* 2021: Data blitz - UK-DRI Vascular Theme Early Career Researcher Meeting 2021
-* 2020: Oral presentation - Alzheimer's Association International Conference (AAIC 2020)
-* 2020: Oral presentation - PREVENT General Assembly 2020 
-* 2020: Oral presentation - Alzheimer's Research UK Conference (ARUK 2020)
-* 2018: Oral presentation - National Neuroscience Research Institute Singapore (NNRIS) Research Day 2018 (Best Junior Researcher Award)
+* 2025: Oral presentation — Alzheimer’s Association International Conference (AAIC)
+* 2024: Oral presentation — PREVENT General Assembly 2024 (SVD & neighbourhood deprivation)
+* 2024: Oral presentation — PREVENT General Assembly 2024 (SVD & traumatic brain injury)
+* 2023: Oral presentation — Dementias Platform UK (DPUK) Translation 2023 (Awarded best talk)
+* 2023: Oral presentation — UK Dementia Research Institute Vascular ECR Workshop
+* 2023: Oral presentation — Cambridge Imaging Festival
+* 2022: Oral presentation — Alzheimer's Research UK Conference 2022
+* 2022: Oral presentation — World Stroke Congress (WSC 2022), Short Communications
+* 2022: Oral presentation — PREVENT General Assembly 2022 
+* 2021: Oral presentation — Vas-Cog Conference 2021
+* 2021: Oral presentation — Alzheimer's Research UK Conference (ARUK 2021) 
+* 2021: Data blitz — 5th Preclinical Stroke Symposium 2021
+* 2021: Data blitz — Cambridge Imaging Festival 2021
+* 2021: Data blitz — UK-DRI Vascular Theme Early Career Researcher Meeting 2021
+* 2020: Oral presentation — Alzheimer's Association International Conference (AAIC 2020)
+* 2020: Oral presentation — PREVENT General Assembly 2020 
+* 2020: Oral presentation — Alzheimer's Research UK Conference (ARUK 2020)
+* 2018: Oral presentation — National Neuroscience Research Institute Singapore (NNRIS) Research Day 2018 (Best Junior Researcher Award)
 
 
 <!-- Teaching
