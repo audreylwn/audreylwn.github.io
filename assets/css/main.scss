@@ -114,18 +114,23 @@ font-weight: 700;
 font-style: italic;
 font-display: swap;
 }
-  
 
 // Headers
-h1, h2 {
+h1 {
 font-family: "Crimson Pro", $serif;
-font-weight: 600; //600;
+font-weight: 550; //600;
 margin-top: 1.2em;
 margin-bottom: 0.5em;
 line-height: 1.2;
 border-bottom: none !important;
-// text-transform: uppercase;
-// letter-spacing: 0.04em;
+}
+h2 {
+font-family: "Crimson Pro", $serif;
+font-weight: 550; //600;
+margin-top: 1.2em;
+margin-bottom: -0em;
+line-height: 1.2;
+border-bottom: none !important;
 }
 h3, h4, h5, h6 {
 font-family: $serif;
@@ -134,7 +139,6 @@ margin-top: 1.5em;
 margin-bottom: 0.2em;
 line-height: 1.2;
 border-bottom: none !important;
-// text-transform: uppercase;
 }
 
 // Hyperlinks
@@ -227,6 +231,8 @@ z-index: 1000; /* keep it above other content */
 body {
 padding-top: 60px; /* adjust based on masthead height */
 }
+
+// Sidebar adjustments
 @media screen and (min-width: 992px) {
 .sidebar {
     position: fixed;
@@ -291,10 +297,8 @@ margin-bottom: -3em; /* default: eat a bit on mobile */
 /* Make bullets smaller and reduce indent globally */
 ul {
 list-style-type: disc;   /* keep standard filled circle */
-// padding-left: 1em;       /* reduce default indent (usually ~40px) */
-// margin-left: 0;          /* sometimes browsers add extra margin */
+margin-top: -0em;
 }
-
 ul li::marker {
 font-size: 0.7em;        /* smaller bullet */
 }

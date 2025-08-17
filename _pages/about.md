@@ -40,7 +40,31 @@ On top of my academic work, I support younger researchers as the Early Career In
 * Cognition
 
 ## Contact
-Email: low.audrey@mayo.edu
+<!-- HTML -->
+<p>
+  Email: <a href="#" id="copyEmail">low.audrey@mayo.edu</a>
+  <span id="copyMsg" style="display:none; margin-left:5px; font-size:0.8em; color:green; font-style: italic;">
+    Copied to clipboard
+  </span>
+</p>
+<!-- JS for copying email to clipboard -->
+<script>
+  document.addEventListener("DOMContentLoaded", function() {
+    const copyLink = document.getElementById("copyEmail");
+    const copyMsg  = document.getElementById("copyMsg");
+
+    copyLink.addEventListener("click", function(e) {
+      e.preventDefault();
+      const email = copyLink.textContent.trim();
+
+      navigator.clipboard.writeText(email).then(() => {
+        copyMsg.style.display = "inline";
+        setTimeout(() => copyMsg.style.display = "none", 1500);
+      });
+    });
+  });
+</script>
+
 
 <a id="publications" style="display: block; position: relative; top: -70px; visibility: hidden;"></a>
 # Peer-reviewed Publications
