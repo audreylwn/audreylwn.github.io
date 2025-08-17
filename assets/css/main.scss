@@ -48,7 +48,6 @@ font-weight: 100 900; /* full weight range */
 font-style: normal;
 font-display: swap;
 }
-
 @font-face {
 font-family: 'Crimson Pro';
 src: url('../fonts/crimson-pro/CrimsonPro-Italic-VariableFont_wght.ttf') format('truetype');
@@ -56,23 +55,77 @@ font-weight: 100 900; /* full weight range */
 font-style: italic;
 font-display: swap;
 }
-
 // Commissioner font
 @import url('https://fonts.googleapis.com/css2?family=Commissioner:wght@100..900&display=swap');
-
 // Alegreya Sans font
 @import url('https://fonts.googleapis.com/css2?family=Alegreya+Sans:ital,wght@0,100;0,300;0,400;0,500;0,700;0,800;0,900;1,100;1,300;1,400;1,500;1,700;1,800;1,900&display=swap');
+// Gabarito font
+@import url('https://fonts.googleapis.com/css2?family=Gabarito:wght@400..900&display=swap');
+// Asap font
+@import url('https://fonts.googleapis.com/css2?family=Asap:ital,wght@0,100..900;1,100..900&display=swap');
+// Atkinson Hyperlegible font
+@import url('https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+// Reforma 2018 font
+/* Reforma 2018 Blanca (light) */
+@font-face {
+font-family: 'Reforma 2018';
+src: url('../fonts/reforma-2018/Reforma2018-Blanca.otf') format('opentype');
+font-weight: 400;
+font-style: normal;
+font-display: swap;
+}
+/* Reforma 2018 Blanca Italic */
+@font-face {
+font-family: 'Reforma 2018';
+src: url('../fonts/reforma-2018/Reforma2018-BlancaItalica.otf') format('opentype');
+font-weight: 400;
+font-style: italic;
+font-display: swap;
+}
+/* Reforma 2018 Gris (regular) */
+@font-face {
+font-family: 'Reforma 2018';
+src: url('../fonts/reforma-2018/Reforma2018-Gris.otf') format('opentype');
+font-weight: 500;
+font-style: normal;
+font-display: swap;
+}
+/* Reforma 2018 Gris Italic */
+@font-face {
+font-family: 'Reforma 2018';
+src: url('../fonts/reforma-2018/Reforma2018-GrisItalica.otf') format('opentype');
+font-weight: 500;
+font-style: italic;
+font-display: swap;
+}
+/* Reforma 2018 Negra (bold) */
+@font-face {
+font-family: 'Reforma 2018';
+src: url('../fonts/reforma-2018/Reforma2018-Negra.otf') format('opentype');
+font-weight: 700;
+font-style: normal;
+font-display: swap;
+}
+/* Reforma 2018 Negra Italic */
+@font-face {
+font-family: 'Reforma 2018';
+src: url('../fonts/reforma-2018/Reforma2018-NegraItalica.otf') format('opentype');
+font-weight: 700;
+font-style: italic;
+font-display: swap;
+}
+  
 
 // Headers
 h1, h2 {
-font-family: $serif;
+font-family: "Crimson Pro", $serif;
 font-weight: 600; //600;
 margin-top: 1.2em;
 margin-bottom: 0.5em;
 line-height: 1.2;
 border-bottom: none !important;
-text-transform: uppercase;
-letter-spacing: 0.04em;
+// text-transform: uppercase;
+// letter-spacing: 0.04em;
 }
 h3, h4, h5, h6 {
 font-family: $serif;
@@ -81,7 +134,7 @@ margin-top: 1.5em;
 margin-bottom: 0.2em;
 line-height: 1.2;
 border-bottom: none !important;
-text-transform: uppercase;
+// text-transform: uppercase;
 }
 
 // Hyperlinks
@@ -142,18 +195,18 @@ color: #F8F6F1;
 .sidebar .author__urls-wrapper {
   font-family: $navigation, serif;
   font-size: 14px;
-  font-weight: 500
+  font-weight: 400
 }
 .sidebar .author__name {
-  font-family: $navigation;
-  font-size: 20px;
+  font-family: "Crimson Pro";
+  font-size: 25px;
   font-weight: 600;
   margin-bottom: 0em !important;
 }
 .author__urls-wrapper button {
   font-family: $navigation;
   font-style: normal;
-  font-weight: 600;
+  font-weight: 400;
   font-size: 12px;
 }
 .masthead,
@@ -178,20 +231,61 @@ padding-top: 60px; /* adjust based on masthead height */
 .sidebar {
     position: fixed;
     top: 100px;      /* Same value you found earlier */
-    width: 260px;    /* Prevent layout shift */
+    max-width: 240px;    /* Prevent layout shift */
     z-index: 900;
 }
 }
 /* Default style (mobile-first) */
 .about-heading {
-margin-top: -1.4rem;
+margin-top: -1rem;
 }
 /* Larger screens (e.g., desktop and tablets) */
 @media screen and (min-width: 992px) {
 .about-heading {
-    margin-top: -1rem;
+    margin-top: 0rem;
 }
 }
 
+// Make the "Audrey Low" button into "About" button, and keep spacing between that and other buttons
+/* Label swap: About → Audrey Low */
+.label-mobile {
+display: inline;
+font-weight: 500;
+letter-spacing: 0.02em;
+}
+.label-desktop {
+display: none;
+}
+/* Desktop breakpoint behavior */
+@media screen and (min-width: 1280px) {
+.label-mobile {
+    display: none;
+}
+.label-desktop {
+    display: inline;
+    font-weight: 500;
+}
+/* Add tracking to all masthead buttons */
+.masthead__menu-item a {
+    letter-spacing: 0.02em;
+}
+/* Spacer for desktop layout only */
+.nav-spacer {
+    display: inline-block;
+    width: 46px;  /* Adjust to align second link with content */
+}
+}
+/* Hide spacer on mobile */
+.nav-spacer {
+display: none;
+}
+.embed-wrapper {
+margin-bottom: -3em; /* default: eat a bit on mobile */
+}
+@media screen and (min-width: 1280px) {
+.embed-wrapper {
+    margin-bottom: -9em; /* eat more on desktop */
+}
+}
 
   
