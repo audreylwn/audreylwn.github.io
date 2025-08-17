@@ -39,3 +39,159 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+// Crimson Pro font
+@font-face {
+font-family: 'Crimson Pro';
+src: url('../fonts/crimson-pro/CrimsonPro-VariableFont_wght.ttf') format('truetype');
+font-weight: 100 900; /* full weight range */
+font-style: normal;
+font-display: swap;
+}
+
+@font-face {
+font-family: 'Crimson Pro';
+src: url('../fonts/crimson-pro/CrimsonPro-Italic-VariableFont_wght.ttf') format('truetype');
+font-weight: 100 900; /* full weight range */
+font-style: italic;
+font-display: swap;
+}
+
+// Commissioner font
+@import url('https://fonts.googleapis.com/css2?family=Commissioner:wght@100..900&display=swap');
+
+// Alegreya Sans font
+@import url('https://fonts.googleapis.com/css2?family=Alegreya+Sans:ital,wght@0,100;0,300;0,400;0,500;0,700;0,800;0,900;1,100;1,300;1,400;1,500;1,700;1,800;1,900&display=swap');
+
+// Headers
+h1, h2 {
+font-family: $serif;
+font-weight: 600; //600;
+margin-top: 1.2em;
+margin-bottom: 0.5em;
+line-height: 1.2;
+border-bottom: none !important;
+text-transform: uppercase;
+letter-spacing: 0.04em;
+}
+h3, h4, h5, h6 {
+font-family: $serif;
+font-weight: 700; //600;
+margin-top: 1.5em;
+margin-bottom: 0.2em;
+line-height: 1.2;
+border-bottom: none !important;
+text-transform: uppercase;
+}
+
+// Hyperlinks
+a {
+// color: #5B7E91;
+color: inherit;
+text-decoration: underline;
+text-decoration-color: #5B7E91 !important; // Adjust transparency here
+text-decoration-thickness: 1.5px !important;
+text-underline-offset: 3.5px !important;
+}
+
+a:hover {
+color: #5B7E91;
+text-decoration-color: rgba(0, 0, 0, 0.5); // Slightly darker on hover
+}
+
+// Non-lining numerals
+body, p, li, blockquote, h1, h2, h3, h4, h5, h6 {
+font-variant-numeric: oldstyle-nums;
+}
+
+// Spacing under paragraphs
+p {
+margin-bottom: 1.0em !important;
+}
+
+// Masthead and footer color
+.masthead, .masthead *, .masthead a, .masthead-nav a {
+color: #F8F6F1 !important;  // replace with your desired color
+background-color: #5B7E91;
+}
+.navicon,
+.navicon::after,
+.navicon::before {
+background-color: #F8F6F1 !important;
+}
+.close .navicon {
+background-color: transparent !important;
+}
+.page__footer,
+.page__footer * {
+background-color: #5B7E91 !important;
+color: #F8F6F1; 
+}
+
+// Sidebar and navigation fonts
+.sidebar h1, 
+.sidebar h2,
+.sidebar .author__bio,
+.sidebar .author__content,
+.sidebar .author__location,
+.sidebar .author__urls.social-icons,
+.author__urls,
+.author__urls a,
+.author__urls li,
+.author__urls button,
+.sidebar .author__urls-wrapper {
+  font-family: $navigation, serif;
+  font-size: 14px;
+  font-weight: 500
+}
+.sidebar .author__name {
+  font-family: $navigation;
+  font-size: 20px;
+  font-weight: 600;
+  margin-bottom: 0em !important;
+}
+.author__urls-wrapper button {
+  font-family: $navigation;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 12px;
+}
+.masthead,
+.masthead * {
+  font-family: $navigation;
+  font-weight: 400;
+}
+
+// Make masthead sticky and fix alignment issues on mobile
+/* Make masthead sticky */
+.masthead {
+position: fixed;
+top: 0;
+width: 100%;
+z-index: 1000; /* keep it above other content */
+}
+/* Add padding to body to prevent content being hidden under masthead */
+body {
+padding-top: 60px; /* adjust based on masthead height */
+}
+@media screen and (min-width: 992px) {
+.sidebar {
+    position: fixed;
+    top: 100px;      /* Same value you found earlier */
+    width: 260px;    /* Prevent layout shift */
+    z-index: 900;
+}
+}
+/* Default style (mobile-first) */
+.about-heading {
+margin-top: -1.4rem;
+}
+/* Larger screens (e.g., desktop and tablets) */
+@media screen and (min-width: 992px) {
+.about-heading {
+    margin-top: -1rem;
+}
+}
+
+
+  
