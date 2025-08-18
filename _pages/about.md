@@ -72,15 +72,16 @@ On top of my academic work, I support younger researchers as the Early Career In
 
 Full list of articles on [Google Scholar](https://scholar.google.com/citations?user=Ka8dILwAAAAJ).
 
-* **Perivascular space dysfunction in cerebral small vessel disease is related to neuroinflammation**. _Brain_ 2025;148(5):1540-1550. [[doi](http://dx.doi.org/10.1093/brain/awae357)]
-<br/> <span style="font-size:1.0em; display: block; margin-left:1.5em"> Hong H, Tozer D, Chen Y, Brown R, **Low A**, Markus H </span>
 
-* **Sex disparities in the impact of atherosclerotic cardiovascular risk burden on cognitive health**. _J Am Heart Assoc._ 2025.
+* **Perivascular space dysfunction in cerebral small vessel disease is related to neuroinflammation**. 
+_Brain._ 2025;148(5):1540-1550. [[doi](http://dx.doi.org/10.1093/brain/awae357)]
+    Hong H, Tozer D, Chen Y, Brown R, **Low A**, Markus H.
+* **Sex disparities in the impact of atherosclerotic cardiovascular risk burden on cognitive health**. 
+_J Am Heart Assoc._ 2025.
 <br/> <span style="font-size:1.0em; display: block; margin-left:1.5em"> Zuo L, Kua Z, Wang X, **Low A**, Cai X, Li S, Wang M, Wang Y, Dong Y, Pan Y </span>
-
-* **Machine learning applications in vascular neuroimaging for the diagnosis and prognosis of cognitive impairment and dementia: a systematic review and meta-analysis**. _Alz Res Therapy._ 2025;17:183. [[doi](http://dx.doi.org/10.1186/s13195-025-01815-6)]
-<br/> <span style="font-size:1.0em; display: block; margin-left:1.5em"> Lohner V, Badhwar A, Detcheverry FE, García CL, Gellersen HM, Khodakarami Z, Lattmann R, Li R, Low A, Mazo C, Metz A, Parent O, Phillips V, Saeed U, Tan SYW, Tamburin S, Llewellyn DJ, Rittman T, Waters S, Bernal J </span>
-
+* **Machine learning applications in vascular neuroimaging for the diagnosis and prognosis of cognitive impairment and dementia: a systematic review and meta-analysis**. 
+_Alz Res Therapy._ 2025;17:183. [[doi](http://dx.doi.org/10.1186/s13195-025-01815-6)]
+<br/> <span style="font-size:1.0em; display: block; margin-left:1.5em"> Lohner V, Badhwar A, Detcheverry FE, García CL, Gellersen HM, Khodakarami Z, Lattmann R, Li R, **Low A**, Mazo C, Metz A, Parent O, Phillips V, Saeed U, Tan SYW, Tamburin S, Llewellyn DJ, Rittman T, Waters S, Bernal J </span>
 * **Association between choroidal microvasculature in the eye and Alzheimer’s disease risk in cognitively healthy midlife adults**. _Alzheimer’s Dement._ 2025;17:e70075. [[doi](http://dx.doi.org/10.1002/dad2.70075)]
 <br/> <span style="font-size:1.0em; display: block; margin-left:1.5em"> Burke J, Gibbon S, **Low A**, Hamid C, Reid-Schachter M, Muniz-Terrera G, Ritchie CW, Dhillon B, O’Brien JT, MacCormick IJC, MacGillivray TJ </span>
 * **Neuroimaging and Clinical Findings in Healthy Middle-Aged Adults With Mild Traumatic Brain Injury in the PREVENT Dementia Study**. _JAMA Netw Open._ 2024 Aug 1;7(8):e2426774. [[doi](http://dx.doi.org/10.1001/jamanetworkopen.2024.26774)] [[Scientific American](https://www.scientificamerican.com/article/concussions-are-remarkably-common-and-can-cause-long-term-problems/)]
