@@ -13,9 +13,9 @@ $paragraph-indent           : false; // true, false (default)
 $indent-var                 : 1.3em;
 
 /* system typefaces */
-$navigation                 : "Reforma 2018", "Atkinson Hyperlegible", "Asap", "Gabarito", "Commissioner", "Alegreya Sans", "Alegreya Sans", "Commissioner";
-$serif                      : "Reforma 2018", "Atkinson Hyperlegible", "Asap", "Gabarito", "Commissioner", "Alegreya Sans", Georgia, Times, serif;
-$sans-serif                 : "Reforma 2018", "Atkinson Hyperlegible", "Asap", "Gabarito", "Commissioner", "Alegreya Sans", -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
+$navigation                 : -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
+$serif                      : serif;
+$sans-serif                 : -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
 $monospace                  : Monaco, Consolas, "Lucida Console", monospace;
 
 /* sans serif typefaces */
